@@ -1,5 +1,5 @@
 # Python Basics Projects 
-
+......
 This repository contains beginner-level Python projects created for practice and learning.  
 Each project focuses on strengthening core Python concepts such as variables, conditionals, loops, and user input.
 
