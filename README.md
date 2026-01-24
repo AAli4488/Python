@@ -11,7 +11,7 @@ Perfect for:
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ---
 
@@ -99,7 +99,7 @@ Perfect for:
 
 ---
 
-## 🧩 Concepts Covered
+##  Concepts Covered
 - Python fundamentals
 - Arrays & hashing
 - Two pointer technique
